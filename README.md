@@ -1,4 +1,6 @@
-# Project Report: Airbnb Market Analysis in NYC
+# Project : Airbnb Market Analysis in NYC
+![Airbnb_Dashboard_PNG](https://github.com/user-attachments/assets/12368294-b3ed-496b-8ff9-36c45e9103de)
+
 
 ## Introduction
 
